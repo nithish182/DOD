@@ -21,11 +21,13 @@ if (isset($_GET["register"])) {
 	<div class="navbar navbar-inverse navbar-fixed-top">
 		<div class="container-fluid">	
 			<div class="navbar-header">
-				<a href="index.php" class="navbar-brand">DOD Site</a>
+				<a href="index.php" class="navbar-brand">DOD</a>
 			</div>
 			<ul class="nav navbar-nav">
 				<li><a href="index.php"><span class="glyphicon glyphicon-home"></span> Home</a></li>
 				<li><a href="index.php"><span class="glyphicon glyphicon-modal-window"></span> Product</a></li>
+				<li><a href="contact.php"><span class="glyphicon glyphicon-user"></span>Contact</a></li>
+				<li><a href="sell.php"><span class="glyphicon glyphicon-fire"></span>Sell</a></li>
 			</ul>
 		</div>
 	</div>
