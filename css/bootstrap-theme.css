@@ -578,8 +578,8 @@ fieldset[disabled] .btn-danger.active {
 }
 
 .panel {
-    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
-    box-shadow: 0 1px 2px rgba(0, 0, 0, .05);
+    -webkit-box-shadow: 0 1px 2px rgba(29, 138, 255, 0.05);
+    box-shadow: 0 1px 2px rgba(40, 133, 254, 0.05);
 }
 
 .panel-default>.panel-heading {

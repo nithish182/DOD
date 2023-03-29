@@ -26,3 +26,10 @@
 			</ul>
 		</div>
 	</div>
+    <p><br/></p>
+	<p><br/></p>
+	<p><br/></p><p><br/></p>
+	<p><br/></p>
+	<p><br/></p>
+    <div class="panel-heading">Hi there to sell your products in our website kindly provide the details you want to sell such as name of the product,quantity,category,manufactured year, etc.</div>
+    <a class="navbar-brand" href="contact.php"><span class="glyphicon glyphicon-user"></span>Contact</a>
