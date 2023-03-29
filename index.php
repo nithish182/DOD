@@ -38,6 +38,7 @@ if(isset($_SESSION["uid"])){
 				<li><a href="index.php"><span class="glyphicon glyphicon-modal-window"></span> Products</a></li>
 				<li><a href="contact.php"><span class="glyphicon glyphicon-user"></span>Contact</a></li>
 				<li><a href="sell.php"><span class="glyphicon glyphicon-fire"></span>Sell</a></li>
+				<li><a href="DOD_chatbot/chatindex.html"><span class="glyphicon glyphicon-comment"></span>Chat support</a></li>
 			</ul>
 			<form class="navbar-form navbar-left">
 		        <div class="form-group">
