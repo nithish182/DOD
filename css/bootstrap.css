@@ -1693,7 +1693,7 @@ mark,
 
 a.text-primary:hover,
 a.text-primary:focus {
-    color: #286090;
+    color: #35a1ff;
 }
 
 .text-success {
@@ -1739,7 +1739,7 @@ a.text-danger:focus {
 
 a.bg-primary:hover,
 a.bg-primary:focus {
-    background-color: #286090;
+    background-color: #2f9eff;
 }
 
 .bg-success {
@@ -6081,11 +6081,11 @@ a.thumbnail.active {
 }
 
 .alert-info hr {
-    border-top-color: #a6e1ec;
+    border-top-color: #515aff;
 }
 
 .alert-info .alert-link {
-    color: #245269;
+    color: #1cb3ff;
 }
 
 .alert-warning {
