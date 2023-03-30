@@ -32,5 +32,7 @@
 	<p><br/></p><p><br/></p>
 	<p><br/></p>
 	<p><br/></p>
-    <div class="panel-heading">Hi there to sell your products in our website kindly provide the details you want to sell such as name of the product,quantity,category,manufactured year, etc.</div>
-    <a class="navbar-brand" href="contact.php"><span class="glyphicon glyphicon-user"></span>Contact</a>
+    <h1 style="font-size: 2.5rem;">Hi there! to sell your products in our website, kindly provide the details you want to sell such as name of the product, brand, price, category, manufactured year, description, etc.</h1>
+    <h1 style="font-size: 2.5rem;">Also provide brand details, seller license, govt id proof, use official mail to enquire on behalf of the brand with *product details, package and product dimension, units per box.</h1>
+    <h1 style="font-size: 2.5rem;">Use our <a href="contact.php">Contact page</a> to send your details. send product related information in excel sheet to "fahadmehtab1997@gmail.com" for brand enquiry</h1></a>
+	<a class="btn btn-primary sumbitbtn" href="contact.php">CONTACT PAGE</a>
